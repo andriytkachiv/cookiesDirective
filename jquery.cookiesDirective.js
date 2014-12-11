@@ -43,7 +43,7 @@
         },
         defaults = {
             selector: 'body',
-            cookieName: 'cookieagreed12',
+            cookieName: 'cookieagreed',
             cookieLifeTime: 1000,
             markup: '<div id="cookies-bar" style="display: none;">\
                         <p>%s<a href="%s" target="_blank">%s</a>%s\
