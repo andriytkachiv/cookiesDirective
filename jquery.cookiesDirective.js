@@ -67,7 +67,7 @@
             that.sprintf(
                 that.options.markup,
                 l18n[that.options.language].desc1,
-                that.policyLink,
+                that.options.policyLink,
                 l18n[that.options.language].desc2,
                 l18n[that.options.language].desc3,
                 l18n[that.options.language].buttonClose
